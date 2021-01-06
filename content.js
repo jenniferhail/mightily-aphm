@@ -1,4 +1,2 @@
 console.log("qfvyu")
-console.log("gjuhq")
-console.log("bljkj")
-console.log("uojih")
+console.log("khnxf")
